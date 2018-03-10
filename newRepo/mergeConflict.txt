@@ -1,2 +1,3 @@
 merge conflict
 merge1
+merge2
