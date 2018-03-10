@@ -1,6 +1,2 @@
 bug1
-<<<<<<< HEAD
 New Changes
-bug2
-=======
->>>>>>> parent of 1b98d2e... Update bug1.txt
